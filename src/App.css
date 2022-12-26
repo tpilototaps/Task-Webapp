@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  
+}
+
+.App-header {
+  background: url('https://4kwallpapers.com/images/wallpapers/dark-background-abstract-background-network-3d-background-2048x1536-8324.png');
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  
+}
+
+.card{
+  padding: 10px;
+}
